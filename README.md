@@ -47,7 +47,6 @@ snapshotter --dir V:/meuprojeto/src
 
 ## 🎯 Exemplo de saída
 
-````markdown
 <file_map>
 ├── src
 │   ├── main.rs
@@ -61,8 +60,8 @@ snapshotter --dir V:/meuprojeto/src
 fn main() { println!("Hello, world!"); }
 ```
 
-\</path: src/main.rs>
-\</file\_contents>
+</path: src/main.rs>
+</file\_contents>
 
 ## 🚀 Contribuição
 
