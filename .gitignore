@@ -1,0 +1,41 @@
+# Rust
+/target/
+/**/*.rs.bk
+Cargo.lock
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+*.lnk
+
+# Logs & temp
+*.log
+*.tmp
+*.bak
+*.swp
+
+# IDEs
+.idea/
+.vscode/
+*.code-workspace
+
+# Python caches (se misturar projetos)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Coverage
+coverage/
+
+# Snapshots
+snapshot.md
