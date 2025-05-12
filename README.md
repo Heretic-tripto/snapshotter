@@ -59,12 +59,10 @@ snapshotter --dir V:/meuprojeto/src
 
 ```rs
 fn main() { println!("Hello, world!"); }
-````
+```
 
 \</path: src/main.rs>
 \</file\_contents>
-
-```
 
 ## 🚀 Contribuição
 
